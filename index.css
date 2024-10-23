@@ -1,0 +1,40 @@
+html {
+    margin: 0;
+}
+* {
+    box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100dvh;
+    margin: 0;
+}
+.container {
+    min-width: 600px;
+    max-width: 710px;
+    width: 80%;
+    height: 40vh;
+    border: 3px solid black;
+    border-radius: 15px;
+    margin: auto;
+    font-family: "Roboto", sans-serif;
+    padding: 1em;
+}
+h2,p {
+    margin: 0;
+}
+.tabs {
+    display: flex;
+    gap: 2em;
+}
+.tabs h2 {
+    font-weight: 400;
+    font-size: 1.3em;
+    margin: 0 0.6em;
+    margin-bottom: 0.2em;
+}
+.tab-border {
+    border-bottom: 3px solid black;
+}
