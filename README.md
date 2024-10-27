@@ -4,7 +4,7 @@
 
 ## Overview
 
-Simple Tabs is a project featured on [roadmap.sh](https://roadmap.sh/projects/simple-tabs). It provides a clean and efficient way to organize content into tabs, enhancing user experience in web applications.
+Simple Tabs is a project featured on [roadmap.sh](https://roadmap.sh/projects/simple-tabs).
 
 ## Learn More
 
